@@ -1,0 +1,20 @@
+{
+  "name": "todo-redux-react-tutorial",
+  "version": "1.0.0",
+  "description": "todo app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com:guinslym/todo-react-redux-app.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "todo"
+  ],
+  "author": "Guinsly Mondésir",
+  "license": "ISC"
+}
